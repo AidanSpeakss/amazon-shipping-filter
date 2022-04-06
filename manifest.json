@@ -14,7 +14,7 @@
   "content_scripts": [
     {
       "matches": ["*://*.amazon.com/*",
-                 /*I'll add translations later, let's just get this thing working for right now
+                 /*Ill add translations later, let's just get this thing working for right now
                  "*://*.amazon.jp/*", 
                   "*://*.amazon.in/*", 
                   "*://*.amazon.ca/*",
