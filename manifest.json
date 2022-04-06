@@ -19,7 +19,7 @@
       "js": ["amazon-shipping-filter.js"]
     }
   ],
-  "comments": [ "Ill add translations later, let's just get this thing working for right now"
+  "comments": [ "Ill add translations later, let's just get this thing working for right now",
                   "*://*.amazon.jp/*", 
                   "*://*.amazon.in/*", 
                   "*://*.amazon.ca/*",
