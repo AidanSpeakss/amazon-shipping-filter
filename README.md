@@ -1,9 +1,12 @@
-# amazon-shopping-filter
-
-
+#Amazon Climate Filter
 
 This plugin is based on the script provided by https://gir.st/blog/amazon-shipping.htm.
 
+New Purpose: 
+It will scan through all search results on the amazon page, see if it is climate friendly and if not. if not, it will grey out the result for you. 
+
+
+Old Purpose:
 It will scan through all search results on the amazon page, see if it is shippable. if not, it will grey out the result for you. 
 
 Note that this is the first version. Because the shipping information is on another page which needs to be loaded in the background, it takes some time and might stress your CPU a litte.
