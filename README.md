@@ -1,4 +1,4 @@
-#Amazon Climate Filter
+# Amazon Climate Filter
 
 This plugin is based on the script provided by https://gir.st/blog/amazon-shipping.htm.
 
