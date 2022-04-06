@@ -1,17 +1,7 @@
 # Amazon Climate Filter
 
-This plugin is based on the script provided by https://gir.st/blog/amazon-shipping.htm.
-
-New Purpose: 
-It will scan through all search results on the amazon page, see if it is climate friendly and if not. if not, it will grey out the result for you. 
+Filters amazon listings based on whether they are climate pledge friendly or not. Non climate friendly products will be greyed out for you. 
+Might stress your CPU a little on low-end devices, but well worth the load times to save the environment!  
 
 
-Old Purpose:
-It will scan through all search results on the amazon page, see if it is shippable. if not, it will grey out the result for you. 
-
-Note that this is the first version. Because the shipping information is on another page which needs to be loaded in the background, it takes some time and might stress your CPU a litte.
-Also, while testing i've encoumbered some Amazon counter-bot measures because of the many requests the add-on performs in the background. This means that if you shop extensively on Amazon, the detection might not work for a short while.
-
-I hope this can be fixed in further versions.
-
-Note that amazon may choose at any point to change the design of its site, effectively breaking the behaviour of this add-on. I'll try to keep it up-to-date, but can make no promises.
+Credit to: https://github.com/vallant/amazon-shipping-filter for the initial code
