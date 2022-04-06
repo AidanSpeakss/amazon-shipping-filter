@@ -2,15 +2,23 @@
 
   "manifest_version": 2,
   "name": "Amazon Climate Filter",
-  "version": "0.1.0",
-
+  "version": "0.1.5",
   "description": "Filter Amazon Listings based on whether they are climate pledge friendly or not.",
-
+  "developer": {
+    "name": "Aidan Raney",
+    "url": "https://devaidan.com/"
+  },
+  "author": "Aidan Raney",
+  "homepage_url": "https://github.com/AidanSpeakss/amazon-shipping-filter",
   "icons" : {
     "48" : "icons/icon-48.png",
     "96" : "icons/icon-96.png"
   },
-
+  "browser_action": {
+    "default_icon": "icons/icon-48.png",
+    "default_title": "Amazon Climate Filter!",
+    "default_popup": "options.html"
+  },
   "content_scripts": [
     {
       "matches": [
