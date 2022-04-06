@@ -13,10 +13,14 @@
 
   "content_scripts": [
     {
-      "matches": ["*://*.amazon.com/*",
-                 /*
-                 "I'll add translations later, let's just get this thing working for right now"
-                 "*://*.amazon.jp/*", 
+      "matches": [
+        "*://*.amazon.com/*"
+        ],
+      "js": ["amazon-shipping-filter.js"]
+    }
+  ],
+  "comments": [ "Ill add translations later, let's just get this thing working for right now"
+                  "*://*.amazon.jp/*", 
                   "*://*.amazon.in/*", 
                   "*://*.amazon.ca/*",
                   "*://*.amazon.it/*", 
@@ -29,10 +33,5 @@
                   "*://*.amazon.com.au/*", 
                   "*://*.amazon.com.sg/*", 
                   "*://*.amazon.com.mx/*",
-                  "*://*.amazon.com.br/*"**/
-                  ],
-      "js": ["amazon-shipping-filter.js"]
-    }
-  ]
-
+                  "*://*.amazon.com.br/*" ]
 }
