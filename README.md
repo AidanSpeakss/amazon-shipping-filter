@@ -10,3 +10,5 @@ Climate Pledge Friendly products are more sustainable, and buying these products
 
 
 **Github:** <a href="https://github.com/AidanSpeakss/amazon-shipping-filter">https://github.com/AidanSpeakss/amazon-shipping-filter</a>  
+
+To-do: Add a cold turkey toggle.
