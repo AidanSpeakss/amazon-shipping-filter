@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "Amazon Climate Filter",
-  "version": "0.0.1",
+  "version": "0.1.0",
 
   "description": "Filter Amazon Listings based on whether they are climate pledge friendly or not.",
 
