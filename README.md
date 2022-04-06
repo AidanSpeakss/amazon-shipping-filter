@@ -6,3 +6,5 @@ Might stress your CPU a little on low-end devices, but well worth the load times
 Climate Pledge Friendly products are more sustainable, and buying these products exclusively will give companies a financial incentive to be more sustainable.  
 
 Learn more here: https://www.amazon.com/b?node=21221607011  
+
+Github: https://github.com/AidanSpeakss/amazon-shipping-filter
