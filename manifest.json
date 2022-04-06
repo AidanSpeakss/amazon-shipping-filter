@@ -2,7 +2,7 @@
 
   "manifest_version": 2,
   "name": "Amazon Climate Filter",
-  "version": "0.1.5",
+  "version": "0.2.1",
   "description": "Filter Amazon Listings based on whether they are climate pledge friendly or not.",
   "developer": {
     "name": "Aidan Raney",
@@ -16,32 +16,25 @@
   },
   "browser_action": {
     "default_icon": "icons/icon-48.png",
-    "default_title": "Amazon Climate Filter!",
-    "default_popup": "options.html"
+    "default_title": "Amazon Climate Filter"
   },
   "content_scripts": [
     {
       "matches": [
-        "*://*.amazon.com/*"
-        ],
+        "*://*.amazon.com/*",
+        "*://*.amazon.it/*",
+        "*://*.amazon.es/*",
+        "*://*.amazon.de/*",
+        "*://*.amazon.co.uk/*",
+        "*://*.amazon.fr/*"
+      ],
       "js": ["amazon-shipping-filter.js"]
     }
   ],
-  "comments": [ 
-    "Ill add translations later, let's just get this thing working for right now", 
-    "*://*.amazon.jp/*", 
-    "*://*.amazon.in/*", 
-    "*://*.amazon.ca/*",
-    "*://*.amazon.it/*", 
-    "*://*.amazon.es/*", 
-    "*://*.amazon.de/*", 
-    "*://*.amazon.co.uk/*", 
-    "*://*.amazon.fr/*",
-    "*://*.amazon.cn/*", 
-    "*://*.amazon.nl/*", 
-    "*://*.amazon.com.au/*", 
-    "*://*.amazon.com.sg/*", 
-    "*://*.amazon.com.mx/*",
-    "*://*.amazon.com.br/*" 
-  ]
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "permissions": ["storage","webRequest","webRequestBlocking","<all_urls>"]
 }
