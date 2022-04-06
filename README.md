@@ -1,4 +1,9 @@
 # Amazon Climate Filter
+**Buy Me A Coffee:** https://www.buymeacoffee.com/devaidan
+
+# Installing:
+Add to Firefox: https://addons.mozilla.org/en-US/firefox/addon/streamermode/  
+Add to Chrome/Opera: https://chrome.google.com/webstore/detail/streamer-mode-for-chrome/cpdfpajodamflehhkgmpdhfobjdgfimj
 
 Filters amazon listings based on whether they are climate pledge friendly or not. Non climate friendly products will be greyed out for you. 
 Might stress your CPU a little on low-end devices, but well worth the load times to save the environment!  
