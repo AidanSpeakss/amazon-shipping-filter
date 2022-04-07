@@ -1,6 +1,6 @@
 # Amazon Climate Filter
 
-<img src=""></img>
+<img src="https://raw.githubusercontent.com/AidanSpeakss/amazon-shipping-filter/master/marquee%20promo.png"></img>
 ## **What's the purpose of this extension?**  
 Filters amazon listings based on whether they are climate pledge friendly or not. Non climate friendly products will be greyed out for you. 
 Might stress your CPU a little on low-end devices, but well worth the load times to save the environment!  
@@ -14,6 +14,6 @@ Climate Pledge Friendly products are more sustainable, and buying these products
 **Firefox:** <a href="https://addons.mozilla.org/en-US/firefox/addon/amazon-climate-filter/">https://addons.mozilla.org/en-US/firefox/addon/amazon-climate-filter/</a>  
 **Chrome:** <a href="#">Coming soon</a>  
 
-## Links
-**Github:** <a href="https://github.com/AidanSpeakss/amazon-shipping-filter">https://github.com/AidanSpeakss/amazon-shipping-filter</a>  
+## Socials and Support
+**Link to Github Repo:** <a href="https://github.com/AidanSpeakss/amazon-shipping-filter">https://github.com/AidanSpeakss/amazon-shipping-filter</a>  
 **Buy Me A Coffee:** <a href="https://www.buymeacoffee.com/devaidan">https://www.buymeacoffee.com/devaidan</a>  
