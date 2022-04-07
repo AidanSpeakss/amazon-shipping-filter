@@ -12,7 +12,7 @@ Climate Pledge Friendly products are more sustainable, and buying these products
 
 ## **Where can I get this extension?**  
 **Firefox:** <a href="https://addons.mozilla.org/en-US/firefox/addon/amazon-climate-filter/">https://addons.mozilla.org/en-US/firefox/addon/amazon-climate-filter/</a>  
-**Chrome:** <a href="#">Coming soon</a>  
+**Chrome:** <a href="https://chrome.google.com/webstore/detail/amazon-climate-filter/pkdjnnonpkfknngfmilgcpdpjmmbmhan">https://chrome.google.com/webstore/detail/amazon-climate-filter/pkdjnnonpkfknngfmilgcpdpjmmbmhan</a>  
 
 ## Socials and Support
 **Link to Github Repo:** <a href="https://github.com/AidanSpeakss/amazon-shipping-filter">https://github.com/AidanSpeakss/amazon-shipping-filter</a>  
