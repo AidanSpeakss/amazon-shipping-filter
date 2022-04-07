@@ -17,3 +17,4 @@ Climate Pledge Friendly products are more sustainable, and buying these products
 ## Socials and Support
 **Link to Github Repo:** <a href="https://github.com/AidanSpeakss/amazon-shipping-filter">https://github.com/AidanSpeakss/amazon-shipping-filter</a>  
 **Buy Me A Coffee:** <a href="https://www.buymeacoffee.com/devaidan">https://www.buymeacoffee.com/devaidan</a>  
+**Learn more about the developer:** <a href="https://devaidan.com">https://devaidan.com</a> 
