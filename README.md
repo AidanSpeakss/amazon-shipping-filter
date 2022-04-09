@@ -23,7 +23,8 @@
         <img src="https://img.shields.io/github/issues/AidanSpeakss/amazon-shipping-filter?label=Issues" /></a>
     <a href="https://deepscan.io/dashboard#view=project&tid=16925&pid=20754&bid=574381">
         <img src="https://deepscan.io/api/teams/16925/projects/20754/branches/574381/badge/grade.svg" alt="DeepScan grade"></a>
-</p>    
+</p> 
+
 <img src="https://raw.githubusercontent.com/AidanSpeakss/amazon-shipping-filter/master/marquee%20promo.png"></img>
 ## **What's the purpose of this extension?**  
 Filters amazon listings based on whether they are climate pledge friendly or not. Non climate friendly products will be greyed out for you. 
