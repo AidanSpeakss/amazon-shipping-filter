@@ -5,14 +5,10 @@
 <p align="center">
     <a href="https://shields.io/" alt="FYI">
         <img src="https://img.shields.io/badge/FYI-Badges%20Are%20Cool-brightgreen" /></a>
-<!--     <a href="https://chrome.google.com/webstore/detail/amazon-climate-filter/pkdjnnonpkfknngfmilgcpdpjmmbmhan" alt="Chrome Web Store">
-        <img src="https://img.shields.io/chrome-web-store/price/pkdjnnonpkfknngfmilgcpdpjmmbmhan?label=Price" /></a>
     <a href="https://chrome.google.com/webstore/detail/amazon-climate-filter/pkdjnnonpkfknngfmilgcpdpjmmbmhan" alt="Chrome Users">
         <img src="https://img.shields.io/chrome-web-store/users/pkdjnnonpkfknngfmilgcpdpjmmbmhan?label=Chrome%20Users" /></a>
     <a href="https://addons.mozilla.org/en-US/firefox/addon/amazon-climate-filter/" alt="Firefox Users">
         <img src="https://img.shields.io/amo/users/amazon-climate-filter?label=Firefox%20Users" /></a>
-    <a href="https://addons.mozilla.org/en-US/firefox/addon/amazon-climate-filter/reviews/" alt="Mozilla Add-on Rating">
-        <img src="https://img.shields.io/amo/stars/amazon-climate-filter?label=Firefox%20Rating" /></a> -->
     <a href="https://github.com/AidanSpeakss/amazon-shipping-filter/blob/main/LICENSE" alt="Github License">
         <img src="https://img.shields.io/github/license/AidanSpeakss/amazon-shipping-filter?label=License" /></a>
     <a href="#" alt="GitHub language count">
